@@ -1,0 +1,123 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.logo {
+    border: 3px solid #4b6cc1;
+    padding: 10px;
+}
+
+.home-section {
+    height: 100vh;
+    background-color: #191a1d;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.home-para {
+    color: #9aa5b1;
+}
+span {
+    
+    color:  #4b6cc1;
+}
+.project-buttn {
+    background-color:  #4b6cc1;
+    border: 0px;
+    color: white;
+    border-radius: 10px;
+    padding: 10px;
+    max-width: 100px;
+    margin-left: auto;
+}
+
+.icon-container {
+    background-color: black;
+    height: 30px;
+    width: 30px;
+    border-radius: 15px;
+    padding: 5px 10px 10px 8px;
+}
+
+.icon-twitter {
+    color: #1DA1F2 !important;
+}
+
+.ab-section {
+    background-color: #323f4b;
+}
+
+.sub-heading {
+    color: #cced00;
+}
+
+.ab-para {
+    color: #9aa5b1;
+}
+
+.skills-section {
+    background-color: #1f2933;
+}
+
+.skills-card {
+    background-color: #323f4b;
+    border-radius: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.portfolio {
+    background-color: #3e4c59;
+}
+
+.sub-heading {
+    color: #cced00;
+}
+
+.project-card {
+    border-radius: 20px;
+    margin-top: 20px;
+    background-color: #323f4b;
+}
+
+p {
+    color: #9aa5b1;
+}
+
+.project-button {
+    color: #cced00;
+}
+
+.sub-heading {
+    color: #cced00;
+    margin-top: 20px;
+}
+
+.Services-section {
+    background-color: #52606d;
+}
+
+.services-card {
+    background-color: #323f4b;
+    padding: 20px;
+    border-radius: 20px;
+    margin: 20px;
+}
+
+.footer-section {
+    background-color: #001c32;
+}
+
+.footer-img {
+    width: 70px;
+    height: 70px;
+    border-radius: 50px;
+}
+
+.sub-heading {
+    color: #cced00;
+}
+
+.footer-copy {
+    background-color: #0d2436;
+    text-align: center;
+}
