@@ -45,6 +45,9 @@ span {
 .ab-section {
     background-color: #323f4b;
 }
+.profile-pic {
+    border-radius: 100%;
+}
 
 .sub-heading {
     color: #cced00;
